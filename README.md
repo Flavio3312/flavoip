@@ -1,6 +1,6 @@
 # flavoip
 <h1>My public profile<h1>
-Title
+
 Hi 👋, I'm
 Flavio
 
