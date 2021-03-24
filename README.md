@@ -11,8 +11,7 @@ Chat
 
 🌱 I’m currently learning
 Angular
-💬 Ask me about
-react, vue and gsap
+
 📫 How to reach me
 feperez3312@gmail.com
 👨‍💻 All of my projects are available at
